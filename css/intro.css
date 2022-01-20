@@ -1,0 +1,51 @@
+section {
+    width: 100%;
+    height: 930px;
+    background: linear-gradient(to right, black, darkgray);
+    position: absolute;
+    background-image: url(../img/what.jpg);
+}
+
+.main {
+    width: 70%;
+    height: 700px;
+    margin-top: 7%;
+    margin-left: 15%;
+}
+
+.sd {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: rgba(104, 100, 100, 0.884);
+}
+
+.cont h1 {
+    font-size: 80px;
+    color: blue;
+}
+
+ul {
+    margin-top: 20px;
+}
+
+li {
+    margin-top: 50px;
+    font-size: 50px;
+    
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    color: blue;
+    font-size: 80px;
+}
+
+li:hover, li:focus {
+    font-size: 80px;
+    cursor: pointer;
+}

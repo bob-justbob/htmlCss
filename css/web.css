@@ -1,0 +1,35 @@
+section {
+    width: 100%;
+    height: 940px;
+    background: linear-gradient(to right, black, darkgray);
+    position: absolute;
+    background-image: url(../img/internet.JPG);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: center;
+}
+
+.main {
+    width: 120px;
+    height: 80px;
+    margin-top: 35%;
+    margin-left: 70%;
+}
+
+p {
+    font-size: 50px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover, a:hover {
+    color: blue;
+    cursor: pointer;
+}
+
+p:hover {
+    font-size: 80px;
+}
