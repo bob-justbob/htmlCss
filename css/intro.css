@@ -61,9 +61,16 @@ li:hover, li:focus {
 @media (max-width: 560px) {
     section {
         height: 1200px;
+        width: 100%;
     }
     .main {
         margin-left: 0%;
+        width: 100%;
+    }
+    .cont h1 {
+        width: 100%;
+        height: 200px;
+        font-size: 65px;
     }
     ul {
         width: 100%;
