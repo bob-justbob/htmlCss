@@ -49,3 +49,10 @@ li:hover, li:focus {
     font-size: 80px;
     cursor: pointer;
 }
+
+
+@media (max-width: 870px) {
+    section {
+        height: 1200px;
+    }
+}
