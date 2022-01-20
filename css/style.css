@@ -46,7 +46,7 @@ p {
 
 a {
     text-decoration: none;
-    color: black;
+    color: blue;
 }
 
 p:hover, p:focus {
@@ -70,5 +70,11 @@ p:hover, p:focus {
     }
     .cont {
         height: 300px;
+    }
+    h1 {
+        padding-top: 50px;
+    }
+    p {
+        margin-top: 20px;
     }
 }

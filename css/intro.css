@@ -56,3 +56,19 @@ li:hover, li:focus {
         height: 1200px;
     }
 }
+
+
+@media (max-width: 560px) {
+    section {
+        height: 1200px;
+    }
+    .main {
+        margin-left: 0%;
+    }
+    ul {
+        width: 100%;
+    }
+    li {
+        width: 100%;
+    }
+}
