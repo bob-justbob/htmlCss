@@ -42,18 +42,18 @@ a {
 
 a:hover, a:focus {
     color: blue;
-    font-size: 80px;
+    font-size: 60px;
 }
 
 li:hover, li:focus {
-    font-size: 80px;
+    font-size: 60px;
     cursor: pointer;
 }
 
 
 @media (max-width: 870px) {
     section {
-        height: 1200px;
+        height: 1300px;
     }
 }
 
